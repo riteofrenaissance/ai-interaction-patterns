@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this study protocol or materials, please cite as follows:"
+title: "AI Interaction Patterns: Pathways to Self-Discovery Through Conversational AI"
+authors:
+  - family-names: Baladi
+    given-names: Samir
+    affiliation: Rite of Renaissance
+    email: riteofrenaissance@proton.me
+version: 1.0
+date-released: 2026-05-22
+doi: [To be added after OSF registration]
+url: https://github.com/riteofrenaissance/ai-interaction-patterns
+keywords:
+  - artificial intelligence
+  - human-AI interaction
+  - self-reflection
+  - insight
+  - contemplative practice
+  - critical AI literacy
+  - user experience
+  - mixed methods
+license: CC-BY-4.0
+repository-code: https://github.com/riteofrenaissance/ai-interaction-patterns
+abstract: |
+  This study investigates how user characteristics (intentionality, structural 
+  awareness, contemplative patience) and behavioral engagement patterns predict 
+  outcomes of AI-mediated self-reflection. We propose three pathways: reaching 
+  genuine insight (Treasure), experiencing frustration, or falling into illusion 
+  of control. A cross-sectional study (N=120) with pre-post surveys and logged 
+  AI conversations tests the model R = f(N,W,S,M). Pre-registered study protocol 
+  available before data collection (June 2026).
