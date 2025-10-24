@@ -2,7 +2,7 @@
 ## How Users Interact with AI for Self-Discovery
 
 **Study Status:** 📋 Pre-registration phase (No data collected yet)  
-**Timeline:** July-December 2026  
+**Timeline:** January-June 2026  
 **PI:** Samir Baladi (Rite of Renaissance)
 
 ---
@@ -87,7 +87,7 @@ R = Outcome (🟢 Treasure / 🟠 Frustration / 🔴 Illusion)
 - $15 for ~45 minutes (Prolific or gift card)
 
 ### **Recruitment:**
-- **Starting:** July 2026
+- **Starting:** January 2026
 - **Platforms:** Reddit, Twitter, AI user forums, Prolific
 
 **Interested?** Contact: riteofrenaissance@proton.me
@@ -145,13 +145,13 @@ This study is the first to systematically investigate:
 
 | Phase | Date | Status |
 |-------|------|--------|
-| Protocol development | May 2025 | ✅ Complete |
-| Pre-registration | June 2025 | 🔄 In progress |
-| IRB submission | June 2025 | ⏳ Planned |
-| Recruitment | July-August 2026 | ⏳ Planned |
-| Data collection | July-September 2026 | ⏳ Planned |
-| Analysis | October-November 2026 | ⏳ Planned |
-| Results | December 2026 | ⏳ Planned |
+| Protocol development | October 2025 | ✅ Complete |
+| Pre-registration | November 2025 | 🔄 In progress |
+| IRB submission | December 2025 | ⏳ Planned |
+| Recruitment | Jan-Feb 2026 | ⏳ Planned |
+| Data collection | Jan-Mar 2026 | ⏳ Planned |
+| Analysis | Apr-May 2026 | ⏳ Planned |
+| Results | June 2026 | ⏳ Planned |
 
 ---
 
