@@ -107,6 +107,12 @@ R = Outcome (🟢 Treasure / 🟠 Frustration / 🔴 Illusion)
 3. Identifies risk factors for dependency or frustration
 4. Guides education on critical AI literacy
 
+## Practical Applications
+
+Data feeds into:
+- **[ecf-compass](https://github.com/riteofrenaissance/ecf-compass)** 🧭 - Per-AI sovereignty scoring
+- **[ecf-dashboard](https://github.com/riteofrenaissance/ecf-dashboard)** - Aggregate metrics
+
 ---
 
 ## 📚 Background
